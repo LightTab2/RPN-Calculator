@@ -1,3 +1,5 @@
-# RPN-Calculator
+# RPN Calculator
 
-Reverse Polish Notation with operation hisotry. Swipe left on stack display to undo, swipe right to redo. 
+![Here should be an app screenshot](RPN.jpg)
+
+Reverse Polish Notation with operations history. Swipe left on stack display to undo, swipe right to redo. 
