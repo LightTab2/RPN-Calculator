@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: ch.obermuhlner:kotlin-big-math:2.3.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/ch.obermuhlner/kotlin-big-math/2.3.0/f5247af71f380d7dc351d97eb84dde816061257d/kotlin-big-math-2.3.0.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/ch.obermuhlner/kotlin-big-math/2.3.0/d41a5b3dd967498f1d5fa495f589aaff2f7a65b2/kotlin-big-math-2.3.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/ch.obermuhlner/kotlin-big-math/2.3.0/4e5aeaaa987396232c722c68f0ada5740fa6b1a3/kotlin-big-math-2.3.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/RPN_Kalkulator.iml" filepath="$PROJECT_DIR$/.idea/modules/RPN_Kalkulator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/RPN_Kalkulator.rpnkalkulator.iml" filepath="$PROJECT_DIR$/.idea/modules/app/RPN_Kalkulator.rpnkalkulator.iml" />
+    </modules>
+  </component>
+</project>
